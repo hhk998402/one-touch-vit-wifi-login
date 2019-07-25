@@ -61,7 +61,7 @@ class _VITLogin extends State<VITLogin> {
     // TODO: implement build
     return CupertinoPageScaffold(
         key: _scaffoldKey,
-        resizeToAvoidBottomInset: false,
+        resizeToAvoidBottomInset: true,
 //        navigationBar: CupertinoNavigationBar(
 //          middle: const Text(
 //            'Volsbb Login',
